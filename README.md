@@ -1,5 +1,9 @@
 # 🎬 Netflix Clone
 
+![Netflix Clone Preview](./netflix_preview.png)
+
+A responsive Netflix-inspired web application built with React, Vite, and Tailwind CSS.
+
 A responsive **Netflix-inspired web application** built with **React.js, Vite, and Tailwind CSS**. This project recreates the look and feel of a Netflix landing page with responsive navigation, hero content, promotional sections, FAQ, and a sign-in page.
 
 > **Educational / Portfolio Project:** This is a Netflix-inspired clone created for learning and portfolio purposes. It is not affiliated with or endorsed by Netflix.
